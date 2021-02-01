@@ -1,0 +1,9 @@
+sd_spi.c:11:9:SDSPI_SendCMD	24	static
+sd_spi.c:27:9:SDSPI_Response	48	static
+sd_spi.c:54:9:SDSPI_CMD	48	static
+sd_spi.c:81:9:SDSPI_ACMD	64	static
+sd_spi.c:101:9:SDSPI_Init	56	static
+sd_spi.c:210:9:SDSPI_ReadCommand	64	static
+sd_spi.c:276:9:SDSPI_WriteBlock	56	static
+sd_spi.c:352:9:SDSPI_ReadBlock	16	static
+sd_spi.c:356:9:SDSPI_ReadInfo	72	static

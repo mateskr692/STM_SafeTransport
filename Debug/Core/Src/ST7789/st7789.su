@@ -1,0 +1,13 @@
+st7789.c:8:6:st7789_WriteCmd	16	static
+st7789.c:14:6:st7789_WriteData	16	static
+st7789.c:20:6:st7789_WriteDataWord	16	static
+st7789.c:34:6:st7789_Reset	8	static
+st7789.c:49:6:st7789_SetRotation	16	static
+st7789.c:78:6:st7789_Init	8	static
+st7789.c:142:6:st7789_SetWindow	32	static
+st7789.c:158:6:st7789_DrawPixel	16	static
+st7789.c:166:6:st7789_FillRectangle	32	static
+st7789.c:183:6:st7789_FillScreen	32	static
+st7789.c:189:6:st7789_DrawImage	32	static
+st7789.c:203:6:st7789_DrawChar	56	static
+st7789.c:241:6:st7789_DrawString	40	static
